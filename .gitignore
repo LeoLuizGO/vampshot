@@ -1,0 +1,29 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignorar pastas de build e cache
+/build/
+/__pycache__/
+/dist/
+/eggs/
+/develop-eggs/
+/downloads/
+/lib/
+/lib64/
+/parts/
+/sdist/
+/var/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+
+# Ignorar arquivos de configuração do editor
+*.idea/
+*.vscode/

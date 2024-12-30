@@ -1,6 +1,6 @@
 # Vampshot
 
-![Vampshot](/jogoshooter/data/capa%20jogo%20vampshot.png)
+![Vampshot](/data/capa%20jogo%20vampshot.png)
 
 ## English
 
